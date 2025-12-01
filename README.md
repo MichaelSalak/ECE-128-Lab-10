@@ -1,5 +1,6 @@
 # ECE-128-Lab-10
 Whole System Design 
+
 Simulation Instructions
 - Download files
 - Set top module
